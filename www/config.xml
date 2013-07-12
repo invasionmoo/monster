@@ -62,12 +62,12 @@
     <icon src="res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
 -->
 
-    <icon src="greencow-50x50.png" />
+    <icon src="img/icon/android/greencow-50x50.png" />
 
-    <icon src="res/icon/android/greencow-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
-    <icon src="res/icon/android/greencow-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
-    <icon src="res/icon/android/greencow-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
-    <icon src="res/icon/android/greencow-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
+    <icon src="img/icon/android/greencow-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
+    <icon src="img/icon/android/greencow-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
+    <icon src="img/icon/android/greencow-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
+    <icon src="img/icon/android/greencow-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
 
 
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" />
